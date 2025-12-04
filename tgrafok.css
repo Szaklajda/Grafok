@@ -32,6 +32,7 @@ h3 {
   image-resolution: calc(400px);
   border: 1px #FF0000  solid;
   background-color: #ffffff;
+  float: right;
 }
 
 .kerdeskep {
