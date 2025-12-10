@@ -5,7 +5,7 @@ body {
   text-align: justify;
   background-image: url(big-graph.png);
   background-position: center;
-  background-position-y:top ;
+  background-position-y: top;
 }
 
 p:first-letter {
@@ -31,7 +31,7 @@ h3 {
   font-size: 0.7em;
   color: #FF0000;
   image-resolution: calc(400px);
-  border: 1px #FF0000  solid;
+  border: 1px #FF0000 solid;
   background-color: #ffffff;
 }
 
@@ -54,7 +54,7 @@ a {
 
 .container {
   border: 2px solid #FF0000;
-  background-color: #ffffff ;
+  background-color: #ffffff;
   float: right;
   margin-left: 20px;
   padding: 10px;
