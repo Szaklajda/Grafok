@@ -48,6 +48,8 @@ h3 {
 
 a {
   color: red;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .container {
