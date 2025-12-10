@@ -5,6 +5,7 @@ body {
   text-align: justify;
   background-image: url(big-graph.png);
   background-position: center;
+  background-position-y:top ;
 }
 
 p:first-letter {
@@ -32,7 +33,12 @@ h3 {
   image-resolution: calc(400px);
   border: 1px #FF0000  solid;
   background-color: #ffffff;
-  float: right;
+}
+
+#jobbra img {
+  width: 400px;
+  height: auto;
+  margin-bottom: 5px;
 }
 
 .kerdeskep {
@@ -42,6 +48,15 @@ h3 {
 
 a {
   color: red;
+}
+
+.container {
+  border: 2px solid #FF0000;
+  background-color: #ffffff ;
+  float: right;
+  margin-left: 20px;
+  padding: 10px;
+  width: 400px;
 }
 
 .kn {
